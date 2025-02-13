@@ -5,10 +5,20 @@
 5.Pop up Arrives (Clicking anywhere on screen )
 
 
-TestCase 1 Not Working 
+TestCase 1 Not Done
 1.Search City
 1.Search For Tests,Package
 2.Top Booked Diagnostic Tests
 3.Add Test(Thyroid Profile)
 4.Scrool Up  (Cart Showing  Proceed To checkout )
 5.Add Patient Details
+
+Tescase 2 
+1.Search and scroll upto  Find Tests by Health Concern
+2. Search Fever
+3. Find Fever Related Tests
+4.Book
+5.Add Patient Details
+
+Testcase 3
+
