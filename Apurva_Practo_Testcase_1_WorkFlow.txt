@@ -21,4 +21,16 @@ Tescase 2
 5.Add Patient Details
 
 Testcase 3
+Search and scroll upto Popular Health Checkup Packages
+2. Active Professional Health Checkup
+3.Book Now
+5.Add Patient Details
+
+Testcase 4
+Search and scroll upto Top booked Medical tests
+2.Lipid Profile
+3.Book Now
+3.Book Now
+5.Add Patient Details
+
 
