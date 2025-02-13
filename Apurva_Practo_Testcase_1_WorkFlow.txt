@@ -1,0 +1,14 @@
+1.Page Open
+2.Login
+3.Surgeries
+4.Lab Tests
+5.Pop up Arrives (Clicking anywhere on screen )
+
+
+TestCase 1 Not Working 
+1.Search City
+1.Search For Tests,Package
+2.Top Booked Diagnostic Tests
+3.Add Test(Thyroid Profile)
+4.Scrool Up  (Cart Showing  Proceed To checkout )
+5.Add Patient Details
